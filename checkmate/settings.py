@@ -24,9 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'ds3*@zbum##feon1a&a&j&sn+7s6^^89bvmod$l67g)u!$_562'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['checkmate.checkmate.neubit.in']
 
 
 # Application definition
