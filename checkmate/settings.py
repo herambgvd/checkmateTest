@@ -96,7 +96,7 @@ DATABASES = {
         'NAME': 'checkMateNew',
         'USER': 'postgres',
         'PASSWORD': 'Hanu@0542',
-        'HOST': 'srv-captain--check-mate-ads',
+        'HOST': 'srv-captain--check-mate-ads-db',
         'PORT': '5432',
     }
 }
