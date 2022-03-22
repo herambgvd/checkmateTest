@@ -26,7 +26,7 @@ SECRET_KEY = 'ds3*@zbum##feon1a&a&j&sn+7s6^^89bvmod$l67g)u!$_562'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['checkmate.checkmate.neubit.in']
+ALLOWED_HOSTS = ['checkmate.neubit.in']
 
 
 # Application definition
@@ -96,8 +96,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'checkMateNew',
         'USER': 'postgres',
-        'PASSWORD': 'Hanu@0542',
-        'HOST': 'srv-captain--check-mate-ads-db',
+        'PASSWORD': 'geniusvision6001',
+        'HOST': 'checkmate.cy9ibdoshf4y.ap-south-1.rds.amazonaws.com',
         'PORT': '5432',
     }
 }
